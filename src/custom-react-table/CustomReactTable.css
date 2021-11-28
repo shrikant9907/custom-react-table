@@ -1,0 +1,12 @@
+.custom-react-table-ui table {
+  border: 1px solid #efefef;
+}
+
+.custom-react-table-ui table tr {
+  border-top: 1px solid #efefef;
+}
+
+.custom-react-table-ui table tr th,
+.custom-react-table-ui table tr td{
+  padding: 10px;
+}
